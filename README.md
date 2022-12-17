@@ -47,24 +47,26 @@ Made with [contrib.rocks](https://contrib.rocks).
 - README.md의 본인의 진행 사항을 수정합니다.
 ### 스터디 진행 현황
 
-| 챕터 | 소단원 | 소단원명 | 문제 | 사전 공부 |
-| --- | --- | --- | --- | --- |
-| 1 | 1 | 탐색과 정렬(1) | 1920, 2750, 2751, 10989, 10815 | 이진탐색, O(NlogN)정렬, 카운팅 정렬 |
-| 1 | 2 | 기초 자료구조(1) | 10828, 10845, 10866, 1406 | 스택, 큐, 덱, 연결 리스트 |
-| 1 | 3 | 탐색과 정렬(2) | 1026, 1181, 11650, 11651, 10867, 10816 | X |
-| 1 | 4 | 기초 자료구조(2) | 9012, 1874, 1158, 1966, 5430 | X |
-| 2 | 1 | 백트래킹(1) | 6603, 1182, 9095, 9663 | 백트래킹 |
-| 2 | 2 | 기초 수학(1) | 1037, 1978, 1929, 2609 | 에라토스테네스의 체, 유클리드 호제법 |
-| 2 | 3 | 백트래킹(2) | 14889, 15686, 2661, 2580 | X |
+| 챕터 | 소단원 | 소단원명 | 문제                                                                                                                                                                                                                                                                                         | 사전 공부 |
+| --- | --- | --- |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |
+| 1 | 1 | 탐색과 정렬(1) | [1920](https://www.acmicpc.net/problem/1920), [2750](https://www.acmicpc.net/problem/2750), [2751](https://www.acmicpc.net/problem/2751), [10989](https://www.acmicpc.net/problem/10989), [10815](https://www.acmicpc.net/problem/10815)                                                   | 이진탐색, O(NlogN)정렬, 카운팅 정렬 |
+| 1 | 2 | 기초 자료구조(1) | [10828](https://www.acmicpc.net/problem/10828), [10845](https://www.acmicpc.net/problem/10845), [10866](https://www.acmicpc.net/problem/10866), [1406](https://www.acmicpc.net/problem/1406)                                                                                               | 스택, 큐, 덱, 연결 리스트 |
+| 1 | 3 | 탐색과 정렬(2) | [1026](https://www.acmicpc.net/problem/1026), [1181](https://www.acmicpc.net/problem/1181), [11650](https://www.acmicpc.net/problem/11650), [11651](https://www.acmicpc.net/problem/11651), [10867](https://www.acmicpc.net/problem/10867), [10816](https://www.acmicpc.net/problem/10816) | X |
+| 1 | 4 | 기초 자료구조(2) | [9012](https://www.acmicpc.net/problem/9012), [1874](https://www.acmicpc.net/problem/1874), [1158](https://www.acmicpc.net/problem/1158), [1966](https://www.acmicpc.net/problem/1966), [5430](https://www.acmicpc.net/problem/5430)                                                       | X |
+| 2 | 1 | 백트래킹(1) | [6603](https://www.acmicpc.net/problem/6603), [1182](https://www.acmicpc.net/problem/1182), [9095](https://www.acmicpc.net/problem/9095), [9663](https://www.acmicpc.net/problem/9663)                                                                                                     | 백트래킹 |
+| 2 | 2 | 기초 수학(1) | [1037](https://www.acmicpc.net/problem/1037), [1978](https://www.acmicpc.net/problem/1978), [1929](https://www.acmicpc.net/problem/1929), [2609](https://www.acmicpc.net/problem/2609)                                                                                                     | 에라토스테네스의 체, 유클리드 호제법 |
+| 2 | 3 | 백트래킹(2) | [14889](https://www.acmicpc.net/problem/14889), [15686](https://www.acmicpc.net/problem/15686), [2661](https://www.acmicpc.net/problem/2661), [2580](https://www.acmicpc.net/problem/2580)                                                                                                 | X |
+| 2 | 4 | 기초 수학(2) | [2485](https://www.acmicpc.net/problem/2485), [1644](https://www.acmicpc.net/problem/1644), [6588](https://www.acmicpc.net/problem/6588), [15711](https://www.acmicpc.net/problem/15711), [1016](https://www.acmicpc.net/problem/1016)                                                     | X |
 
 ### 개인 진행 사항
 
-| ⭕❌❗▶️ | 지수 |
-| --- | --- |
-| 1-1 | ⭕ (#2 #3 #4 #5 #6) |
-| 1-2 | ⭕ (#7 #8 #9 #10) |
-| 1-3 | ⭕ (#11) |
-| 1-4 | ⭕ (#12 #13 #14 #15 #16) |
-| 2-1 | ⭕ (#17 #18 #19 #20) |
-| 2-2 | ⭕ (#21) |
-| 2-3 | ▶️ (#22 #23 #24 #25) |
+| ⭕❌❗▶️ | 지수 | 승화 |
+| --- | --- | --- |
+| 1-1 | ⭕ (#2 #3 #4 #5 #6) | ▶️ |
+| 1-2 | ⭕ (#7 #8 #9 #10) |  |
+| 1-3 | ⭕ (#11) |  |
+| 1-4 | ⭕ (#12 #13 #14 #15 #16) |  |
+| 2-1 | ⭕ (#17 #18 #19 #20) |  |
+| 2-2 | ⭕ (#21) |  |
+| 2-3 | ⭕ (#22 #23 #24 #25) |  |
+| 2-4 | ▶️ (#36 #37 #38 #39 #40) |  |
