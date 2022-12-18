@@ -2,28 +2,31 @@ import sys
 
 input = sys.stdin.readline
 
+def gcd(a, b):
+    while b != 0:
+        r = a % b
+        a, b = b, r
+    return a
+
 N = int(input())
 trees = []
-results = 1e9
-diff = 1e9
+diffs = []
+count = 0
 
 for _ in range(N):
     tree = int(input())
     trees.append(tree)
 
 for i in range(len(trees)-1):
-    diff = min(diff, trees[i+1] - trees[i])
+    diffs.append(trees[i+1] - trees[i])
 
-location = [0 for _ in range(trees[-1]+1)]
+diffs.sort()
+final_gcd = diffs[0]
 
-for l in trees:
-    location[l] = 1
+for idx in range(1, len(diffs)):
+    final_gcd = gcd(final_gcd, diffs[idx])
 
-for d in range(diff, 1, -1):
-    count = 0
-    for l in range(1, trees[-1]+1, diff):
-        if location[l] == 0:
-            count += 1
-    results = min(results, count)
+for diff in diffs:
+    count += diff//final_gcd -1
 
-print(results)
+print(count)
