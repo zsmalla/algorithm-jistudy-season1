@@ -57,7 +57,7 @@ Made with [contrib.rocks](https://contrib.rocks).
 | 2 | 2 | 기초 수학(1) | [1037](https://www.acmicpc.net/problem/1037), [1978](https://www.acmicpc.net/problem/1978), [1929](https://www.acmicpc.net/problem/1929), [2609](https://www.acmicpc.net/problem/2609)                                                                                                     | 에라토스테네스의 체, 유클리드 호제법 |
 | 2 | 3 | 백트래킹(2) | [14889](https://www.acmicpc.net/problem/14889), [15686](https://www.acmicpc.net/problem/15686), [2661](https://www.acmicpc.net/problem/2661), [2580](https://www.acmicpc.net/problem/2580)                                                                                                 | X |
 | 2 | 4 | 기초 수학(2) | [2485](https://www.acmicpc.net/problem/2485), [1644](https://www.acmicpc.net/problem/1644), [6588](https://www.acmicpc.net/problem/6588), [15711](https://www.acmicpc.net/problem/15711), [1016](https://www.acmicpc.net/problem/1016)                                                     | X |
-
+| 3 | 1 | DFS와 BFS(1) | [1260](https://www.acmicpc.net/problem/1260), [2667](https://www.acmicpc.net/problem/2667), [1967](https://www.acmicpc.net/problem/1967), [2178](https://www.acmicpc.net/problem/2178), [2606](https://www.acmicpc.net/problem/2606) | DFS, BFS |
 ### 개인 진행 사항
 
 | ⭕❌❗▶️ | 지수 | 승화 |
@@ -69,4 +69,5 @@ Made with [contrib.rocks](https://contrib.rocks).
 | 2-1 | ⭕ (#17 #18 #19 #20) |  |
 | 2-2 | ⭕ (#21) |  |
 | 2-3 | ⭕ (#22 #23 #24 #25) |  |
-| 2-4 | ▶️ (#36 #37 #38 #39 #40) |  |
+| 2-4 | ⭕ (#36 #37 #38 #39 #40) |  |
+| 3-1 | ▶️ (#46 #47 #48 #49 #50) |  |
