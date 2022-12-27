@@ -59,6 +59,7 @@ Made with [contrib.rocks](https://contrib.rocks).
 | 2 | 4   | 기초 수학(2)         | [2485](https://www.acmicpc.net/problem/2485), [1644](https://www.acmicpc.net/problem/1644), [6588](https://www.acmicpc.net/problem/6588), [15711](https://www.acmicpc.net/problem/15711), [1016](https://www.acmicpc.net/problem/1016)                                                     | X                               |
 | 3 | 1   | DFS와 BFS(1)      | [1260](https://www.acmicpc.net/problem/1260), [2667](https://www.acmicpc.net/problem/2667), [1697](https://www.acmicpc.net/problem/1697), [2178](https://www.acmicpc.net/problem/2178), [2606](https://www.acmicpc.net/problem/2606)                                                       | DFS, BFS                        |
 | 3 | 2   | 기초 다이나믹 프로그래밍(1) | [1003](https://www.acmicpc.net/problem/1003), [1463](https://www.acmicpc.net/problem/1463), [2579](https://www.acmicpc.net/problem/2579), [1932](https://www.acmicpc.net/problem/1932), [1149](https://www.acmicpc.net/problem/1149)                                                       | 다이나믹 프로그래밍(Top-Down, Bottom-Up) |
+| 3 | 3   | DFS와 BFS(2)      | [2206](https://www.acmicpc.net/problem/2206), [7576](https://www.acmicpc.net/problem/7576), [7569](https://www.acmicpc.net/problem/7569), [9466](https://www.acmicpc.net/problem/9466), [2636](https://www.acmicpc.net/problem/2636), [2583](https://www.acmicpc.net/problem/2583)         | X                               |
 ### 개인 진행 사항
 
 | ⭕❌❗▶️ | 지수 | 승화 |
@@ -72,4 +73,5 @@ Made with [contrib.rocks](https://contrib.rocks).
 | 2-3 | ⭕ (#22 #23 #24 #25) |  |
 | 2-4 | ⭕ (#36 #37 #38 #39 #40) |  |
 | 3-1 | ⭕ (#46 #47 #48 #49 #50) |  |
-| 3-2 | ▶️ (#56, #57, #58, #59, #60) |  |
+| 3-2 | ⭕ (#56, #57, #58, #59, #60) |  |
+| 3-3 | ▶️ (#66, #67, #68, #69, #70, #71) |  |
