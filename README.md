@@ -10,10 +10,10 @@ Made with [contrib.rocks](https://contrib.rocks).
     - 시작 : 2022-11-14
     - `진행중`
 - problem source from
-    - 로드맵 : [https://ryute.tistory.com/33](https://ryute.tistory.com/33)
-    - 문제  : [https://www.acmicpc.net/workbook/view/2418](https://www.acmicpc.net/workbook/view/2418)
-    - 노션 : [https://zsmalla.notion.site/Algorithm-JiStudy-Season1-33bbffb38cde4324835a9eb46430d789](https://www.notion.so/Algorithm-JiStudy-Season1-33bbffb38cde4324835a9eb46430d789)
-    - github : https://github.com/zsmalla/algorithm-jistudy-season1
+    - [로드맵](https://ryute.tistory.com/33)
+    - [문제](https://www.acmicpc.net/workbook/view/2418)
+    - [노션](https://www.notion.so/Algorithm-JiStudy-Season1-33bbffb38cde4324835a9eb46430d789)
+    - [github](https://github.com/zsmalla/algorithm-jistudy-season1)
 
 ## Study Overview
 
@@ -66,6 +66,7 @@ Made with [contrib.rocks](https://contrib.rocks).
 | 4   | 3   | 힙                | [1927](https://www.acmicpc.net/problem/1927), [11279](https://www.acmicpc.net/problem/11279), [11286](https://www.acmicpc.net/problem/11286), [1715](https://www.acmicpc.net/problem/1715), [1655](https://www.acmicpc.net/problem/1655)                                                                                                 | 힙                               |
 | 4   | 4   | 그리디 알고리즘(2)      | [1202](https://www.acmicpc.net/problem/1202), [9576](https://www.acmicpc.net/problem/9576), [13305](https://www.acmicpc.net/problem/13305), [1826](https://www.acmicpc.net/problem/1826), [1422](https://www.acmicpc.net/problem/1422) | X                               |
 ### 개인 진행 사항
+
 | ⭕❌❗▶️ | 지수 | 승화 |
 | --- | --- | --- |
 | 1-1 | ⭕ (#2 #3 #4 #5 #6) | ▶️ |
@@ -82,5 +83,5 @@ Made with [contrib.rocks](https://contrib.rocks).
 | 3-4 | ⭕ (#72, #73, #74, #75, #76, #77, #78) |  |
 | 4-1 | ⭕ (#79, #80, #81, #82) |  |
 | 4-2 | ⭕ (#83, #84, #85, #86, #87) |  |
-| 4-3 | ▶️(#88, #89, #90, #91, #92) |  |
-| 4-4 | (#93, #94, #95, #96, #97) |  |
+| 4-3 | ⭕(#88, #89, #90) |  |
+| 4-4 | ▶️(#91, #92, #93, #94, #95) |  |
