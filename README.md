@@ -7,8 +7,9 @@
 Made with [contrib.rocks](https://contrib.rocks).
 
 - 기간
-    - 시작 : 2022-11-14
-    - `진행중`
+  - 시작 : 2022-11-14
+  - chapter 4 clear : 2023-01-10
+  - `일시 정지`(AI TECH 준비로 인한 [프로그래머스 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit) & [스킬 체크](https://programmers.co.kr/skill_checks) 풀이 : ~ 2023-01-26)
 - problem source from
     - [로드맵](https://ryute.tistory.com/33)
     - [문제](https://www.acmicpc.net/workbook/view/2418)
@@ -84,4 +85,5 @@ Made with [contrib.rocks](https://contrib.rocks).
 | 4-1 | ⭕ (#79, #80, #81, #82) |  |
 | 4-2 | ⭕ (#83, #84, #85, #86, #87) |  |
 | 4-3 | ⭕(#88, #89, #90) |  |
-| 4-4 | ▶️(#91, #92, #93, #94, #95) |  |
+| 4-4 | ⭕(#91, #92, #93, #94, #95) |  |
+| 5-1 | ⏸️ (사유 : AI TECH 준비 - Programmers 문제 풀이 ~ 23.01.26) |  |
