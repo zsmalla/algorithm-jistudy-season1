@@ -6,10 +6,10 @@
 
 Made with [contrib.rocks](https://contrib.rocks).
 
-- 기간
-  - 시작 : 2022-11-14
+- 시작 : 2022-11-14
   - chapter 4 clear : 2023-01-10
-  - `일시 정지`(AI TECH 준비로 인한 [프로그래머스 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit) & [스킬 체크](https://programmers.co.kr/skill_checks) 풀이 : ~ 2023-01-26)
+  - 일시 정지 (AI TECH 준비로 인한 [프로그래머스 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit) & [스킬 체크](https://programmers.co.kr/skill_checks) 풀이 : ~ 2023-01-26)
+  - `진행 중`
 - problem source from
     - [로드맵](https://ryute.tistory.com/33)
     - [문제](https://www.acmicpc.net/workbook/view/2418)
@@ -65,12 +65,16 @@ Made with [contrib.rocks](https://contrib.rocks).
 | 4   | 1   | 그리디 알고리즘(1)      | [11047](https://www.acmicpc.net/problem/11047), [1931](https://www.acmicpc.net/problem/1931), [2217](https://www.acmicpc.net/problem/2217), [2529](https://www.acmicpc.net/problem/2529)                                                                                                                                                 | 그리디 알고리즘                        |
 | 4   | 2   | 파라메트릭 서치(1)      | [2805](https://www.acmicpc.net/problem/2805), [1654](https://www.acmicpc.net/problem/1654), [2869](https://www.acmicpc.net/problem/2869), [2512](https://www.acmicpc.net/problem/2512), [2110](https://www.acmicpc.net/problem/2110)                                                                                                     | 파라메트릭 서치                        |
 | 4   | 3   | 힙                | [1927](https://www.acmicpc.net/problem/1927), [11279](https://www.acmicpc.net/problem/11279), [11286](https://www.acmicpc.net/problem/11286), [1715](https://www.acmicpc.net/problem/1715), [1655](https://www.acmicpc.net/problem/1655)                                                                                                 | 힙                               |
-| 4   | 4   | 그리디 알고리즘(2)      | [1202](https://www.acmicpc.net/problem/1202), [9576](https://www.acmicpc.net/problem/9576), [13305](https://www.acmicpc.net/problem/13305), [1826](https://www.acmicpc.net/problem/1826), [1422](https://www.acmicpc.net/problem/1422) | X                               |
+| 4   | 4   | 그리디 알고리즘(2)      | [1202](https://www.acmicpc.net/problem/1202), [9576](https://www.acmicpc.net/problem/9576), [13305](https://www.acmicpc.net/problem/13305), [1826](https://www.acmicpc.net/problem/1826), [1422](https://www.acmicpc.net/problem/1422)                                                                                                   | X                               |
+|5	|1	|파라메트릭 서치(2)	| [1939](https://www.acmicpc.net/problem/1939), [2585](https://www.acmicpc.net/problem/2585), [3079](https://www.acmicpc.net/problem/3079), [3090](https://www.acmicpc.net/problem/3090)	                                                                                                                                                  |X|
+|5	|2	|다이나믹 프로그래밍(1)	| [1890](https://www.acmicpc.net/problem/1890), [1520](https://www.acmicpc.net/problem/1520), [12015](https://www.acmicpc.net/problem/12015), [9251](https://www.acmicpc.net/problem/9251), [9252](https://www.acmicpc.net/problem/9252), [11051](https://www.acmicpc.net/problem/11051)	                                                  |X|
+|5	|3| 	분할 정복(1)	       | [1992](https://www.acmicpc.net/problem/1992), [11729](https://www.acmicpc.net/problem/11729), [10827](https://www.acmicpc.net/problem/10827), [2261](https://www.acmicpc.net/problem/2261)	                                                                                                                                              |분할정복|
+|5	|4	|유니온-파인드 트리(1)	| [1717](https://www.acmicpc.net/problem/1717), [4195](https://www.acmicpc.net/problem/4195), [1976](https://www.acmicpc.net/problem/1976), [10775](https://www.acmicpc.net/problem/10775)	                                                                                                                                                |유니온-파인드 트리|
 ### 개인 진행 사항
 
-| ⭕❌❗▶️ | 지수 | 승화 |
+| ⭕❌❗▶️ ⏸️ | 지수 | 승화 |
 | --- | --- | --- |
-| 1-1 | ⭕ (#2 #3 #4 #5 #6) | ▶️ |
+| 1-1 | ⭕ (#2 #3 #4 #5 #6) | ⏸️ |
 | 1-2 | ⭕ (#7 #8 #9 #10) |  |
 | 1-3 | ⭕ (#11) |  |
 | 1-4 | ⭕ (#12 #13 #14 #15 #16) |  |
@@ -86,4 +90,4 @@ Made with [contrib.rocks](https://contrib.rocks).
 | 4-2 | ⭕ (#83, #84, #85, #86, #87) |  |
 | 4-3 | ⭕(#88, #89, #90) |  |
 | 4-4 | ⭕(#91, #92, #93, #94, #95) |  |
-| 5-1 | ⏸️ (사유 : AI TECH 준비 - Programmers 문제 풀이 ~ 23.01.26) |  |
+| 5-1 | ▶️ |  |
