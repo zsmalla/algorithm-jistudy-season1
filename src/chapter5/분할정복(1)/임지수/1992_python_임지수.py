@@ -2,38 +2,28 @@ import sys
 
 input = sys.stdin.readline
 
-def quadtree():
-    answer = ''
-
-    def recur(image):
-        nonlocal answer
-        
-        # for i in range(len(image)):     # for test
-        #     print(*image[i])            
-
-        if len(image) != 2:
-            half = len(image)//2
-
-            for i in range(2):        
-                for j in range(2):     
-                    answer += '(' + recur([[image[i*half + r][j*half + c] for c in range(half)] for r in range(half)]) + ')'
-
-        else:
-            # for i in range(len(image)):
-            #     print(*image[i], '\n')
-            flat = [image[i][j] for i in range(2) for j in range(2)]
-            if flat.count('0') == 4:
-                return '0'
-            elif flat.count('1') == 4:
-                return '1'
-            else:
-                return '('+''.join(flat)+')'
-        
-        return ''
+def quadtree(r, c, n):
+    
+    check = image[r][c]
+    for i in range(r, r+n):
+        for j in range(c, c+n):
+            if image[i][j] != check:
+                check = -1
+                break
             
-    recur(_image)
-    return answer 
-
+    if check == -1:
+        print("(", end='')
+        n //= 2
+        quadtree(r, c, n)
+        quadtree(r, c + n, n)
+        quadtree(r + n, c, n)
+        quadtree(r + n, c + n, n)
+        print(")", end='')
+    elif check == 1:
+        print('1', end ='')
+    else:
+        print('0', end = '')
+    
 N = int(input().rstrip())
-_image = [list(input().rstrip()) for _ in range(N)]
-print(quadtree())
+image = [list(map(int, input().rstrip())) for _ in range(N)]
+quadtree(0, 0, N)
